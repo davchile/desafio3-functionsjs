@@ -21,3 +21,4 @@ const elementUno = document.querySelector("#ele1")
 elementUno.addEventListener("click", ()=> {
     cambiarColor("yellow")
 })
+//**Por favor descomentar cada ejercicio para evaluar funcionalidad */
